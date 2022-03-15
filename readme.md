@@ -2,4 +2,6 @@
 
 Welcome to the Python Course
 
-Yet another line of code.
+this is a new check
+
+this is a third check
